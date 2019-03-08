@@ -22,6 +22,12 @@ Then Interact with your notebooks in a live environment! Upload your data to the
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rnwolf/pandas_agile_metrics/master?urlpath=lab)
 
+### Quick YouTube tour
+
+See the video on how to launch your private JupyterLab session, upload some data and then run the Notebook cells.
+
+[![YouTube](http://img.youtube.com/vi/owYyWQ9yOhM/0.jpg)](http://www.youtube.com/watch?v=owYyWQ9yOhM "YouTube")
+
 ## Alternative
 
 Clone this repo, to your local computer, setup a Python 3.7 environment, install libraries & run JupyterLab locally. 
